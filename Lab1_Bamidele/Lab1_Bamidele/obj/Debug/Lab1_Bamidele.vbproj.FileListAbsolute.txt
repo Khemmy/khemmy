@@ -1,0 +1,9 @@
+c:\users\kemi\documents\visual studio 2013\Projects\Lab1_Bamidele\Lab1_Bamidele\bin\Debug\Lab1_Bamidele.exe.config
+c:\users\kemi\documents\visual studio 2013\Projects\Lab1_Bamidele\Lab1_Bamidele\obj\Debug\Lab1_Bamidele.Resources.resources
+c:\users\kemi\documents\visual studio 2013\Projects\Lab1_Bamidele\Lab1_Bamidele\obj\Debug\Lab1_Bamidele.vbproj.GenerateResource.Cache
+c:\users\kemi\documents\visual studio 2013\Projects\Lab1_Bamidele\Lab1_Bamidele\bin\Debug\Lab1_Bamidele.exe
+c:\users\kemi\documents\visual studio 2013\Projects\Lab1_Bamidele\Lab1_Bamidele\bin\Debug\Lab1_Bamidele.pdb
+c:\users\kemi\documents\visual studio 2013\Projects\Lab1_Bamidele\Lab1_Bamidele\bin\Debug\Lab1_Bamidele.xml
+c:\users\kemi\documents\visual studio 2013\Projects\Lab1_Bamidele\Lab1_Bamidele\obj\Debug\Lab1_Bamidele.exe
+c:\users\kemi\documents\visual studio 2013\Projects\Lab1_Bamidele\Lab1_Bamidele\obj\Debug\Lab1_Bamidele.xml
+c:\users\kemi\documents\visual studio 2013\Projects\Lab1_Bamidele\Lab1_Bamidele\obj\Debug\Lab1_Bamidele.pdb
